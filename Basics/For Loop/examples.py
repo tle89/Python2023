@@ -9,8 +9,8 @@
 # for i in range(5):
 #     print(i)
 
-fruits = ["apple", "banana", "cherry"]
-for fruit in fruits:
-    if fruit == "banana":
-        break
-    print(fruit)  
+# fruits = ["apple", "banana", "cherry"]
+# for fruit in fruits:
+#     if fruit == "banana":
+#         break
+#     print(fruit)  
